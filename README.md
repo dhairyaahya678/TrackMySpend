@@ -77,7 +77,7 @@ Here’s how the app will work and what you need to focus on:
 
 ## 📸 Screenshots 📸
 
-Here are some example mockup screenshots for various screens of the app to visualize how it might look:
+Here are some example mockup screenshots for various screens of the app to visualize how it might look:-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/a46cea77-f76c-4bbc-b87e-fa99977968aa" width="150"/></td>
